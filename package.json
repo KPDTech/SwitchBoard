@@ -1,0 +1,23 @@
+{
+  "name": "featureswitch",
+  "version": "1.0.0",
+  "description": "Feature flipper for modern applications",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KPDTech/featureswitch.git"
+  },
+  "keywords": [
+    "feature-switch"
+  ],
+  "author": "KPD Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KPDTech/featureswitch/issues"
+  },
+  "homepage": "https://github.com/KPDTech/featureswitch#readme"
+}
